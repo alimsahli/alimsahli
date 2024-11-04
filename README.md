@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-msahli-698a87220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-msahli-698a87220" height="30" width="40" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3707641" style='border:none;'></iframe>
 <a href="https://www.leetcode.com/ali_msahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali_msahli" height="30" width="40" /></a>
 </p>
 
